@@ -1,6 +1,6 @@
 # Electronic-ecommerce-website
 
-Your project is an electronic e-commerce website developed using HTML, CSS, and Bootstrap. It focuses on creating essential pages and features for an online store.
+My project is an electronic e-commerce website developed using HTML, CSS, and Bootstrap. It focuses on creating essential pages and features for an online store.
 
 ### Purpose
 To build a basic e-commerce website with key functionalities using HTML, CSS, and Bootstrap.
